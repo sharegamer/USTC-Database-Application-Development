@@ -18,3 +18,7 @@
 实现按教师工号和给定年份范围生成教学科研工作量统计表并导出文档的功能，导出文档格式可以是 PDF、Word、Excel 等。
 ## 用户界面如下    
 ![image](https://github.com/user-attachments/assets/b57b1740-5cf7-4d0f-8608-7db92e8f5ba3)
+![image](https://github.com/user-attachments/assets/52300a4a-0e77-43fd-a0c8-dc1d524236c5)
+![image](https://github.com/user-attachments/assets/b1b47d67-6514-4dec-a690-d51ac4d7f5e3)
+## 数据关系
+![image](https://github.com/user-attachments/assets/bd822080-6a83-49f5-91b9-1cf7b983a5c5)
